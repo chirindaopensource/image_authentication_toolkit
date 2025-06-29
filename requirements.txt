@@ -1,0 +1,31 @@
+﻿# Image Authentication Toolkit Requirements
+# Generated for project: https://github.com/chirindaopensource/image_authentication_toolkit
+
+# Core Scientific Computing
+numpy>=1.21.0,<2.0.0
+pandas>=1.3.0,<3.0.0
+scipy>=1.7.0,<2.0.0
+
+# Image Processing and Computer Vision
+opencv-python>=4.5.0,<5.0.0
+Pillow>=8.3.0,<11.0.0
+imagehash>=4.2.0,<5.0.0
+
+# Deep Learning and AI
+torch>=1.12.0,<3.0.0
+torchvision>=0.13.0,<1.0.0
+openai-clip>=1.0.1
+
+# Web Automation
+selenium>=4.0.0,<5.0.0
+
+# System Utilities
+psutil>=5.8.0,<6.0.0
+
+# Optional: Additional dependencies that might be useful for image authentication
+# Uncomment if needed:
+# cryptography>=3.4.0,<42.0.0  # For cryptographic operations
+# requests>=2.25.0,<3.0.0      # For HTTP requests
+# tqdm>=4.62.0,<5.0.0          # For progress bars
+# matplotlib>=3.3.0,<4.0.0     # For visualization
+# scikit-learn>=1.0.0,<2.0.0   # For machine learning utilities
